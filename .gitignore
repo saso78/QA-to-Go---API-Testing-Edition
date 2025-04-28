@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+venv/
+ENV/
+env/
+# In case someone names it differently
+.ENV/
+
+# Environment variables
+.env
+
+# pytest cache
+.pytest_cache/
+
+# Reports
+reports/
+
+# VSCode and JetBrains Rider settings (optional)
+.vscode/
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Python packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
